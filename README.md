@@ -11,7 +11,63 @@ At this point you could attempt to find the LUA timer event code to then use dif
 For each week in HMO the settings are changed. From day time to zombie population to special events & even load outs per profession (extra iteams given to player upon loading a new character). This faux playstyle is setup to be used with a specific set of mods but some of the mods used are simply for cosmetic changes to give this version a slightly different feel to the vanilla playstyles. 
 
 The current list of Non-Cosmetic Mods for HMO (as named by internal files) are as follows:
-<li>15xp</li><li>UBPropFix</li><li>25WRFIX</li><li>AutoReload</li><li>AutomaticGateMotors</li><li>autotsartrailers</li><li>tsarslib</li><li>AxeOverhaul</li><li>BecomeBrave</li><li>Better Belts</li><li>FasterTraining</li><li>BetterFlashlightsFixed</li><li>BetterSortCC42</li><li>BrutalHandwork</li><li>FancyHandwork</li><li>isoContainers</li><li>BB_DaysGone_Counter</li><li>IMWSEnergyDrinks</li><li>EngineKeeper</li><li>ExerciseWithGear</li><li>ExerciseWithCorpses</li><li>FWOBenchPress&Treadmill</li><li>FitnessGains</li><li>FixedLongLifeBulbs</li><li>improvedbuildmenu41</li><li>ItemTweakerAPI</li><li>jumpThroughWindows</li><li>Ladders</li><li>ModManager</li><li>MoreBuilds</li><li>MoreBuildAppliances</li><li>LabItemsZFS</li><li>MPOZ</li><li>MoreSmokes</li><li>MoreSmokesEasyPacking</li><li>nattachments</li><li>ReadFasterWhenSitting</li><li>ReloadAllMagazines</li><li>ServerPoints</li><li>tailoringfix41</li><li>KI5trailers</li><li>GetUpQuick</li><li>P4HasBeenRead</li><li>BB_CommonSense</li><li>ssr-core</li><li>MoodleFramework</li><li>DropRollMod</li><li>TsarcraftCache2</li><li>VehicleRepairOverhaul</li><li>VanillaOpenAmmoWalk</li><li>[COS] Clipping animation Fix</li><li>custItemsforProf</li><li>diveThroughWindows</li><li>Buttstroke</li><li>RepairAnyMod</li><li>RepairAnyClothes</li><li>VanillaMuzzleflashEnhanced</li>
+<li>15xp</li>
+<li>UBPropFix</li>
+<li>25WRFIX</li>
+<li>AutoReload</li>
+<li>AutomaticGateMotors</li>
+<li>autotsartrailers</li>
+<li>tsarslib</li>
+<li>AxeOverhaul</li>
+<li>BecomeBrave</li>
+<li>Better Belts</li>
+<li>FasterTraining</li>
+<li>BetterFlashlightsFixed</li>
+<li>BetterSortCC42</li>
+<li>BrutalHandwork</li>
+<li>FancyHandwork</li>
+<li>isoContainers</li>
+<li>BB_DaysGone_Counter</li>
+<li>IMWSEnergyDrinks</li>
+<li>EngineKeeper</li>
+<li>ExerciseWithGear</li>
+<li>ExerciseWithCorpses</li>
+<li>FWOBenchPress&Treadmill</li>
+<li>FitnessGains</li>
+<li>FixedLongLifeBulbs</li>
+<li>improvedbuildmenu41</li>
+<li>ItemTweakerAPI</li>
+<li>jumpThroughWindows</li>
+<li>Ladders</li>
+<li>ModManager</li>
+<li>MoreBuilds</li>
+<li>MoreBuildAppliances</li>
+<li>LabItemsZFS</li>
+<li>MPOZ</li>
+<li>MoreSmokes</li>
+<li>MoreSmokesEasyPacking</li>
+<li>nattachments</li>
+<li>ReadFasterWhenSitting</li>
+<li>ReloadAllMagazines</li>
+<li>ServerPoints</li>
+<li>tailoringfix41</li>
+<li>KI5trailers</li>
+<li>GetUpQuick</li>
+<li>P4HasBeenRead</li>
+<li>BB_CommonSense</li>
+<li>ssr-core</li>
+<li>MoodleFramework</li>
+<li>DropRollMod</li>
+<li>TsarcraftCache2</li>
+<li>VehicleRepairOverhaul</li>
+<li>VanillaOpenAmmoWalk</li>
+<li>[COS] Clipping animation Fix</li>
+<li>custItemsforProf</li>
+<li>diveThroughWindows</li>
+<li>Buttstroke</li>
+<li>RepairAnyMod</li>
+<li>RepairAnyClothes</li>
+<li>VanillaMuzzleflashEnhanced</li>
 </br></br></br>
 
  The current list of Cosmetic Mods for HMO (as named by internal files) are as follows:
