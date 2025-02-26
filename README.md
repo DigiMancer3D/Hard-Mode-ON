@@ -2,11 +2,11 @@
 Finding a way to make a progressively harder Project Zomboid Sandbox game for a "Faux Playstyle" until the team behind PZ sets HMO or "Hard Mode (ON)" as a Playstyle in PZ
 
 ### Note:
-At this point you could attempt to find the LUA timer event code to then use different code points or use a script to swap files at certian timer points but to be honest, the timer point for the first swap after the inital loading swap is <b><i>week2</i></b> at approx 21 hours (IRL time) of gameplay. So, the majority of everyone will probably be swapping out the game settings file (<i>map_sand.bin</i>) for which ever week they are about to load into or while they are in-game. 
+At this point you could attempt to find the LUA timer event code to then use different code points or use a script to swap files at certian timer points but to be honest, the timer point for the first swap after the inital loading swap is <b><i>week2</i></b> at approx 21 hours (IRL time) of gameplay just to make it to <b><i>week3</i></b>. So, the majority of everyone will probably be swapping out the game settings file (<i>map_sand.bin</i>) for which ever week they are about to load into or while they are in-game. 
 
 
 ## What is Hard Mode (ON)?
-<b><i>Hard Mode (ON)</i></b> is a difficultly set sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstlye". Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with other. 
+<b><i>Hard Mode (ON)</i></b> is a difficultly set sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstlye</i>. Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with other. 
 
 For each week in HMO the settings are changed. From day time to zombie population to special events & even load outs per profession (extra iteams given to player upon loading a new character). This faux playstyle is setup to be used with a specific set of mods but some of the mods used are simply for cosmetic changes to give this version a slightly different feel to the vanilla playstyles. 
 
