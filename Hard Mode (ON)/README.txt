@@ -4,7 +4,9 @@ There are 2 basic ways to play HMO, you can either use the provided file sets or
 
 1) Using the Provided Files:
 
-	- Copy the provided folder titled "HMO".
+	- Unzip the compressed folder titled "HMO.zip" to get the folder "HMO" in the same folder as the destination ("Hard Mode (ON)" folder).
+
+	- Copy the now unzipped folder titled "HMO".
 
 	- Locate your "Zomboid" folder (normally at \\user\[your_name]\Zomboid\, if you can't find it search for "Zomboid").
 	
