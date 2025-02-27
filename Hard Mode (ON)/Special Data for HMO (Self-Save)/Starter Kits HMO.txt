@@ -1,0 +1,231 @@
+Lower Weeks (under week 10):
+
+Unemployed: 
+Base.Bag_FannyPackBack;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Matches;MoreSmokes.JointSourDieselPlus;MoreSmokes.BluntsPackSourDiesel;MoreSmokes.CannabisGummies;MoreSmokes.RollingPapersPack;MoreSmokes.NorthernLightsZipLockBag;Base.Pop2;Base.Pop3;Base.WaterBottleFull;Base.WaterBottleFull
+
+Fire Officer: 
+Base.Bag_MedicalBag;Base.Torch7;HandAxe;Base.BaseballBat;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Pen;Base.Extinguisher
+
+Police Officer: 
+Base.Bag_FannyPackBack;Base.Pistol;Base.Torch1;Base.9mmClip;Base.Bullets9mmBox;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.Pop3;Base.WaterBottleFull;Base.Pen;Base.Notebook;Base.Vest_BulletPolice
+
+
+Park Ranger: 
+Base.Bag_BigHikingBag;HandAxe;Base.Torch7;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.BaseballBat;Base.WaterBottleFull;Base.WaterBottleFull;MoreSmokes.JointSourDieselPlus;MoreSmokes.JointSourDieselPlus;Base.Matches;Base.Pen;Base.Vest_HighViz
+
+
+Constr. Worker: 
+Base.Bag_Schoolbag;Base.Hammer;Base.Saw;Base.NailsBox;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;Base.WaterBottleFull;Base.Pen;Base.Vest_HighViz
+
+Sec Gaurd: 
+Base.Nightstick;Base.Bag_FannyPackBack;Base.Torch3;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Pen;Base.Notebook;Base.Vest_HighViz
+
+Carpenter: 
+Base.Bag_JanitorToolbox;Base.Hammer;Base.Saw;Base.NailsBox;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.Pop3;Base.WaterBottleFull;Base.Pencil
+
+Burglar:
+Base.Bag_BowlingBallBag;Base.Crowbar;Base.Torch2;Base.Screwdriver;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;MoreSmokes.RollingPapersPack;MoreSmokes.SourDieselZipLockBag;Base.WaterBottleFull;Base.Paperclip
+
+Chef:
+Base.Bag_Schoolbag;Base.MeatCleaver;Base.Pan;Base.TinOpener;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.Pop3;Base.WaterBottleFull;Base.Pen
+
+Repairmen:
+Base.Bag_Schoolbag;Base.Hammer;Base.Screwdriver;Base.Nails;Base.Nails;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.RollingPapersPack;MoreSmokes.NorthernLightsZipLockBag;Base.Pop3;Base.WaterBottleFull;Base.Pen;Base.Notebook
+
+Farmer:
+Base.SackPotatoes;farming.CabbageBagSeed;farming.PotatoBagSeed;farming.CarrotBagSeed;farming.HandShovel;farming.WateredCan;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.RollingPapersPack;MoreSmokes.SourDieselZipLockBag;Base.WaterBottleFull
+
+Fisherman:
+Base.Bag_Satchel;Base.FishingRod;Base.FishingTackle;Base.FishingTackle;Base.FishingLine;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.CannabisGummies;Base.Pop3;Base.WaterBottleFull
+
+Doctor:
+Base.Bag_DoctorBag;Base.Bandage;Base.Bandage;Base.Bandage;Base.Scalpel;Base.Tweezers;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Pen;Base.Notebook
+
+Veteran: 
+Base.Bag_DoctorBag;Base.Shotgun;Base.ShotgunShellsBox;Base.HuntingKnife;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Pen;Base.Notebook
+
+Nurse:
+Base.Bag_MedicalBag;Base.Bandage;Base.Bandage;Base.Bandage;Base.PillsBeta;Radio.PillsAntiDep;Base.PillsVitamins;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Pen;Base.Notebook
+
+Lumberjack:
+Base.Axe;Base.Bag_Satchel;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.CannabisGummies;MoreSmokes.RollingPapersPack;MoreSmokes.SourDieselZipLockBag;Base.Pop3;Base.WaterBottleFull
+
+Fitness Instr.:
+Base.Bag_Satchel;Base.PillsVitamins;Base.BadmintonRacket;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Burger Flipper:
+Base.Bag_FannyPackBack;Base.Bag_Schoolbag;Base.KitchenKnife;Base.Pan;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;Base.Pop3;Base.WaterBottleFull
+
+Electrician:
+Base.Bag_FannyPackBack;Base.Bag_JanitorToolbox;Base.Screwdriver;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.CannabisGummies;Base.Pop3;Base.WaterBottleFull;Base.Pen;Base.Notebook;Base.Vest_HighViz
+
+Engineer:
+Base.Briefcase;Base.NoiseTrap;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.Matches;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;MoreSmokes.RollingPapersPack;MoreSmokes.SourDieselZipLockBag;Base.Pop3;Base.WaterBottleFull;Base.Pencil
+
+Metalworker:
+Base.Bag_Satchel;Base.BlowTorch;Base.WeldingRods;Base.WeldingRods;Base.WeldingMask;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;Base.Pop3;Base.WaterBottleFull
+
+Mechanic:
+Base.Bag_JanitorToolbox;Base.Wrench;Base.Screwdriver;Base.Jack;Base.LugWrench;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Matches;MoreSmokes.CannabisGummies;MoreSmokes.RollingPapersPack;MoreSmokes.SourDieselZipLockBag;Base.Pop3;Base.WaterBottleFull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Higher Weeks (Week 10 & 11):
+
+Unemployed: 
+Base.Bag_FannyPackBack;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.JointSourDieselPlus;MoreSmokes.BluntsPackSourDiesel;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Fire Officer: 
+Base.Torch7;HandAxe;Base.BaseballBat;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Police Officer: 
+Base.Bag_FannyPackBack;Base.Pistol;Base.Torch1;Base.9mmClip;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Pen
+
+
+Park Ranger: 
+Base.Bag_BigHikingBag;HandAxe;Base.Torch7;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.BaseballBat;Base.WaterBottleFull;Base.WaterBottleFull;MoreSmokes.JointSourDieselPlus
+
+
+Constr. Worker: 
+Base.Hammer;Base.Nails;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Sec Gaurd: 
+Base.Nightstick;Base.Bag_FannyPackBack;Base.Torch3;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Carpenter: 
+Base.Hammer;Base.Nails;MoreSmokes.SpliffsPackPurpleHaze;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Burglar:
+Base.Bag_BowlingBallBag;Base.Crowbar;Base.Screwdriver;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;Base.WaterBottleFull;Base.Paperclip
+
+Chef:
+Base.MeatCleaver;Base.Pan;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Repairmen:
+Base.Bag_Schoolbag;Base.Screwdriver;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.RollingPapersPack;Base.WaterBottleFull
+
+Farmer:
+Base.SackPotatoes;farming.HandShovel;farming.WateredCan;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.SourDieselZipLockBag;Base.WaterBottleFull
+
+Fisherman:
+Base.Bag_Satchel;Base.FishingLine;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Doctor:
+Base.Bag_DoctorBag;Base.Bandage;Base.Bandage;Base.Bandage;Base.Scalpel;Base.Tweezers;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Veteran: 
+Base.Shotgun;Base.HuntingKnife;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Nurse:
+Base.Bag_MedicalBag;Base.Bandage;Base.Bandage;Base.Bandage;Base.PillsBeta;Radio.PillsAntiDep;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Lumberjack:
+Base.Axe;Base.Bag_Satchel;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.CannabisGummies;MoreSmokes.SourDieselZipLockBag;Base.WaterBottleFull
+
+Fitness Instr.:
+Base.Bag_Satchel;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.Lighter;Base.WaterBottleFull
+
+Burger Flipper:
+Base.Bag_FannyPackBack;Base.Pan;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Electrician:
+Base.Bag_FannyPackBack;Base.Screwdriver;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull;Base.Pen;Base.Notebook
+
+Engineer:
+Base.Briefcase;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.RollingPapersPack;Base.WaterBottleFull;Base.Pencil
+
+Metalworker:
+Base.Bag_Satchel;Base.WeldingMask;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SpliffsPackPurpleHaze;Base.WaterBottleFull
+
+Mechanic:
+Base.Bag_JanitorToolbox;Base.Wrench;Base.LugWrench;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;MoreSmokes.SourDieselZipLockBag;Base.WaterBottleFull
+
+
+
+
+
+
+
+
+
+
+Final Weeks (Week12+):
+
+Unemployed: 
+Base.Bag_FannyPackBack;Base.BaseballBat;MoreSmokes.JointSourDieselPlus;MoreSmokes.BluntsPackSourDiesel;Base.WaterBottleFull
+
+Fire Officer: 
+Base.Torch7;HandAxe;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Police Officer: 
+Base.Bag_FannyPackBack;Base.Torch1;Base.9mmClip;Base.WaterBottleFull;Base.Pen
+
+
+Park Ranger: 
+HandAxe;Base.WaterBottleFull;Base.WaterBottleFull;MoreSmokes.JointSourDieselPlus
+
+
+Constr. Worker: 
+Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Sec Gaurd: 
+Base.Nightstick;Base.Bag_FannyPackBack;MoreSmokes.SpliffsPackPurpleHaze;Base.WaterBottleFull
+
+Carpenter: 
+Base.Hammer;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Burglar:
+Base.Crowbar;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Chef:
+Base.Pan;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Repairmen:
+Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Farmer:
+Base.SackPotatoes;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Fisherman:
+Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Doctor:
+Base.Bag_DoctorBag;Base.Bandage;Base.Tweezers;MoreSmokes.CannabisGummies;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Veteran: 
+Base.HuntingKnife;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Nurse:
+Base.Bandage;Base.Bandage;Radio.PillsAntiDep;Base.BaseballBat;MoreSmokes.SpliffsPackPurpleHaze;Base.WaterBottleFull
+
+Lumberjack:
+Base.Axe;Base.Bag_Satchel;MoreSmokes.CannabisGummies;Base.WaterBottleFull
+
+Fitness Instr.:
+Base.Bag_Satchel;Base.BaseballBat;Base.WaterBottleFull
+
+Burger Flipper:
+Base.Pan;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Electrician:
+Base.Bag_FannyPackBack;Base.Screwdriver;MoreSmokes.SpliffsPackPurpleHaze;Base.WaterBottleFull;Base.Pen;Base.Notebook
+
+Engineer:
+Base.BaseballBat;Base.Lighter;MoreSmokes.RollingPapersPack;Base.WaterBottleFull;Base.Pencil
+
+Metalworker:
+Base.WeldingMask;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
+
+Mechanic:
+Base.Wrench;MoreSmokes.SpliffsPackPurpleHaze;Base.Lighter;Base.WaterBottleFull
