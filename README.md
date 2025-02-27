@@ -17,7 +17,7 @@ Hard Mode (ON) has essentially 2 ways to make this happen.
 <li>You can use the provided files in this repo to quickly load up and switch to the different weeks.</li></ol>
 </br></br>
 When you download this repo you should obtain the files which are as follows:
-<ol><li>HMO [folder containing starting game save]</li><li>HMO (weeks) [folder containing week-by-week map settings files]</li><li>Special Data for HMO (Self-Save) [folder containing data for setting up your own map settings files & inital game save]</li><li>modmanager-mods.txt [mods list for mods manager]</li></ol>
+<ol><li>HMO [zipped folder containing starting game save]</li><li>HMO (weeks) [folder containing week-by-week map settings files]</li><li>Special Data for HMO (Self-Save) [folder containing data for setting up your own map settings files & inital game save]</li><li>modmanager-mods.txt [mods list for mods manager]</li></ol>
 </br></br>
 If you are wanting to use the provided data, you will drop "HMO" the folder into your Zomboid game saves folder. Then the map settings files for each week to drop in while playing is in the "HMO (weeks)" folder (with a folder for each week inside that).
 </br></br>BUT</br></br>
