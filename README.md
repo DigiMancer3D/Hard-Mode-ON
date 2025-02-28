@@ -6,20 +6,20 @@ At this point you could attempt to find the LUA timer event code to then use dif
 
 </br></br>
 ## What is Hard Mode (ON)?
-<b><i>Hard Mode (ON)</i></b> is a difficultly set sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstlye</i>. Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with other. 
+<b><i>Hard Mode (ON)</i></b> is a difficultly evolving sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstyle</i>. Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with other. 
 
-For each week in HMO the settings are changed. From day time to zombie population to special events & even load outs per profession (extra iteams given to player upon loading a new character). This faux playstyle is setup to be used with a specific set of mods but some of the mods used are simply for cosmetic changes to give this version a slightly different feel to the vanilla playstyles. 
+For each week in HMO the settings are changed. From day time to zombie population to special events & even load outs per profession (extra items given to player upon loading a new character). This faux playstyle is setup to be used with a specific set of mods but some of the mods used are simply for cosmetic changes to give this version a slightly different feel to the vanilla playstyles. 
 
 </br></br>
-#### 2 Ways to Play HMO
+#### Ways to Play HMO
 Hard Mode (ON) has essentially 2 ways to make this happen. 
-<ol><li>You can load your own game with your mods, use the presets or select the settings in the sandbox options while allowing you to modify any setting easily. This can include the individual week map settings files or just the main hosting game save.</li>
+<ol><li>You can load your own game with your mods, use the presets or select the settings in the sandbox options while allowing you to modify any setting easily. This can include the individual week map settings files to the main hosting game save.</li>
 <li>You can use the provided files in this repo to quickly load up and switch to the different weeks.</li></ol>
 </br></br>
 When you download this repo you should obtain the files which are as follows:
 <ol><li>HMO [zipped folder containing starting game save]</li><li>HMO (weeks) [folder containing week-by-week map settings files]</li><li>Special Data for HMO (Self-Save) [folder containing data for setting up your own map settings files & inital game save]</li><li>modmanager-mods.txt [mods list for mods manager]</li></ol>
 </br></br>
-If you are wanting to use the provided data, you will drop "HMO" the folder into your Zomboid game saves folder. Then the map settings files for each week to drop in while playing is in the "HMO (weeks)" folder (with a folder for each week inside that).
+If you are wanting to use the provided data, you will unzip "HMO.zip" then drop "HMO" the folder, given from the unzipping, into your Zomboid game saves folder. Then the map settings files for each week to drop in while playing is in the "HMO (weeks)" folder (with a folder for each week inside that).
 </br></br>BUT</br></br>
 If you are wanting to make all the game files and map settings, you'll need to use the "Special Data for HMO (Self-Save)" folder.
 </br></br>HOWEVER</br></br>
@@ -41,8 +41,9 @@ In HMO, token counts are 1 of 2 metrics used to determine better players. The to
 </br>
 <ol><ol>Week 1: 21</ol><ol>Week 2: 21</ol><ol>Week 3: 21</ol><ol>Week 4: 28</ol><ol>Week 5: 28</ol><ol>Week 6: 28</ol><ol>Week 7: 35</ol><ol>Week 8: 35</ol><ol>Week 9: 35</ol><ol>Week 10: 84</ol><ol>Week 11: 98</ol><ol>Weeks 12+: 1134</ol></ol>
 
-
-
+</br></br></br></br>
+### MODS Used
+You can Find a majority (if not all) used mods for HMO at the "Hard Mode (ON)" collection by Z0M8I3D on Steam (https://steamcommunity.com/sharedfiles/filedetails/?id=3435689566).
 </br></br></br>
 The current list of Non-Cosmetic Mods for HMO (as named by internal files) & why that mode was used are as follows:
 <ol><li>15xp - To add a flat rate to Workout Experience (comes in handy Weeks 10+)</li>
