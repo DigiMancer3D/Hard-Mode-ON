@@ -6,7 +6,7 @@ At this point you could attempt to find the LUA timer event code to then use dif
 
 </br></br>
 ## What is Hard Mode (ON)?
-<b><i>Hard Mode (ON)</i></b> is a difficultly evolving sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstyle</i>. Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with other. 
+<b><i>Hard Mode (ON)</i></b> is a difficultly evolving sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstyle</i>. Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with each other. 
 
 For each week in HMO the settings are changed. From day time to zombie population to special events & even load outs per profession (extra items given to player upon loading a new character). This faux playstyle is setup to be used with a specific set of mods but some of the mods used are simply for cosmetic changes to give this version a slightly different feel to the vanilla playstyles. 
 
