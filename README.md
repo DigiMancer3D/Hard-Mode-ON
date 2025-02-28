@@ -19,11 +19,10 @@ Hard Mode (ON) has essentially 2 ways to make this happen.
 When you download this repo you should obtain the files which are as follows:
 <ol><li>HMO [zipped folder containing starting game save]</li><li>HMO (weeks) [folder containing week-by-week map settings files]</li><li>Special Data for HMO (Self-Save) [folder containing data for setting up your own map settings files & inital game save]</li><li>modmanager-mods.txt [mods list for mods manager]</li></ol>
 </br></br>
-If you are wanting to use the provided data, you will unzip "HMO.zip" then drop "HMO" the folder, given from the unzipping, into your Zomboid game saves folder. Then the map settings files for each week to drop in while playing is in the "HMO (weeks)" folder (with a folder for each week inside that).
+If you are wanting to use the provided data, you will unzip "HMO.zip", drop "HMO" the folder into your Zomboid game saves folder. Then the map settings files for each week to drop in while playing is in the "HMO (weeks)" folder (with a folder for each week inside that).
 </br></br>BUT</br></br>
 If you are wanting to make all the game files and map settings, you'll need to use the "Special Data for HMO (Self-Save)" folder.
-</br></br>HOWEVER</br></br>
-If you use Mod Manager, you will need to drop the modmanager-mods.txt file into Zomboid Lua folder but if you do use mod manager, make a copy of your original modsmanager-mods.txt file and place somewhere else as a backup because this will overwrite any presave you may have setup already with mod manager. You can open up the text file and add it into your current version one but you may need to update the header number to match the new listed number in your modsmanager-mods.txt file.
+
 </br></br></br><sub><hr>**ANY AND ALL ADDITIONAL INFORMATION FOR GETTING HMO WORKING WITH YOUR PZ SAVE OR ANY PZ GAME SAVE (INCLUDING THE PROVIDED HMO GAME SAVE) IS IN THE "README.TXT" FILE FOUND WITHIN THE MAIN "HARD MODE (ON)" FOLDER WHEN YOU DOWNLOAD THIS REPO, YOU CAN ALSO VIEW THAT README FROM THIS REPO IN THE "HARD MODE (ON)" FOLDER SECTION**<hr></sub>
 
 </br></br></br>
