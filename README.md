@@ -24,7 +24,7 @@ If you are wanting to use the provided data, you will unzip "HMO.zip" then drop 
 If you are wanting to make all the game files and map settings, you'll need to use the "Special Data for HMO (Self-Save)" folder.
 </br></br>HOWEVER</br></br>
 If you use Mod Manager, you will need to drop the modmanager-mods.txt file into Zomboid Lua folder but if you do use mod manager, make a copy of your original modsmanager-mods.txt file and place somewhere else as a backup because this will overwrite any presave you may have setup already with mod manager. You can open up the text file and add it into your current version one but you may need to update the header number to match the new listed number in your modsmanager-mods.txt file.
-</br></br></br><sub><hr>**ANY AND ALL ADDITIONAL INFORMATION FOR GETTING HMO WORKING WITH YOUR PZ SAVE OR ANY PZ GAME SAVE (INCLUDING THE PROVIDED HMO GAME SAVE) IS IN THE "README.TXT" FILE FOUND WITHIN THE MAIN "HMO" FOLDER WHEN YOU DOWNLOAD THIS REPO, YOU CAN ALSO VIEW THAT README FROM THIS REPO IN THE "HMO" FOLDER SECTION**<hr></sub>
+</br></br></br><sub><hr>**ANY AND ALL ADDITIONAL INFORMATION FOR GETTING HMO WORKING WITH YOUR PZ SAVE OR ANY PZ GAME SAVE (INCLUDING THE PROVIDED HMO GAME SAVE) IS IN THE "README.TXT" FILE FOUND WITHIN THE MAIN "HARD MODE (ON)" FOLDER WHEN YOU DOWNLOAD THIS REPO, YOU CAN ALSO VIEW THAT README FROM THIS REPO IN THE "HARD MODE (ON)" FOLDER SECTION**<hr></sub>
 
 </br></br></br></br>
 To help showcase the increasing difficulty in just being able to complete a single in-game week with Hard Mode (ON). The following list is the length to complete a week in REAL LIFE TIME (IRL hours per game-day):
