@@ -9,9 +9,14 @@ At this point you could attempt to find the LUA timer event code to then use dif
 <b><i>Hard Mode (ON)</i></b> is a difficultly evolving sandbox game that is designed to be a "Faux Playstyle" or <i>mock playstyle</i>. Where other playstyles are about a form of challenge or systematic difficulty, so <b>HMO</b> is a challenge of an overall time survived (represented as in-game reward tokens) & less by the number of zombies killed. Altough both should have a factor like tokens divided by zombie kills or just look at both metrics independently but in correlation with each other. 
 
 For each week in HMO the settings are changed. From day time to zombie population to special events & even load outs per profession (extra items given to player upon loading a new character). This faux playstyle is setup to be used with a specific set of mods but some of the mods used are simply for cosmetic changes to give this version a slightly different feel to the vanilla playstyles. 
+</br></br></br></br>
 
-</br></br>
-#### Ways to Play HMO
+## HMO Lore
+![Lore Image](https://raw.githubusercontent.com/DigiMancer3D/Hard-Mode-ON/refs/heads/main/HMO_LORE.png)
+<hr>
+
+</br></br></br>
+## Ways to Play HMO
 Hard Mode (ON) has essentially 2 ways to make this happen. 
 <ol><li>You can load your own game with your mods, use the presets or select the settings in the sandbox options while allowing you to modify any setting easily. This can include the individual week map settings files to the main hosting game save.</li>
 <li>You can use the provided files in this repo to quickly load up and switch to the different weeks.</li></ol>
@@ -35,17 +40,17 @@ To help showcase the increasing difficulty in just being able to complete a sing
 <li>Final Weeks:<ol>Weeks 12+: 63 hours (9hr days)</ol></li>
 </br></br></br>
 
-### Tokens VS Zombie Count
+## Tokens VS Zombie Count
 In HMO, token counts are 1 of 2 metrics used to determine better players. The tokens should only be paid out when someone survives for a specified length of time but may payout after a specified number of minutes while playing. Either way, it does limit the total possible number of tokens available from week to week which can help spot bad or untrustworthy players. By having the token payout being related to time played the players surviving while killing zombies essentially doubling the total points possible. Consider Zombie Count + Tokens the way to find a total for comparing or doing a leaderboard but you could use Tokens Divided-By Zombie-Kills for a more percentile approach to the leaderboard. Next is a list of the max number of tokens awardable per player per week.
 
 </br>
 <ol><ol>Week 1: 21</ol><ol>Week 2: 21</ol><ol>Week 3: 21</ol><ol>Week 4: 28</ol><ol>Week 5: 28</ol><ol>Week 6: 28</ol><ol>Week 7: 35</ol><ol>Week 8: 35</ol><ol>Week 9: 35</ol><ol>Week 10: 84</ol><ol>Week 11: 98</ol><ol>Weeks 12+: 1134</ol></ol>
 
 </br></br></br></br>
-### MODS Used
+## MODS Used
 There is a file named, "modmanager-mods.txt", that may help you auto select these mods if you: (A) have these mods installed (check Steam List [[Z0M8I3D's "Hard Mode (ON)"](https://steamcommunity.com/sharedfiles/filedetails/?id=3435689566)]) & (B) are using "Mod Manager". Each mod that can be configured from the sandbox configuration section has been pre-configured and those files are in the folder, "Sandbox Presets" within the folder, "Special Data for HMO (Self-Serve)". You can copy and paste the presets to your project zomboid "Sandbox Presets" folder to have them usable from within your game when creating a new game.
 </br></br></br>
-The current list of Non-Cosmetic Mods for HMO (as named by internal files) & why that mode was used are as follows:
+### The current list of Non-Cosmetic Mods for HMO (as named by internal files) & why that mode was used are as follows:
 <ol><li>15xp - To add a flat rate to Workout Experience (comes in handy Weeks 10+)</li>
 <li>UBPropFix - Fixes Known Bugs & Issues with some Mods</li>
 <li>25WRFIX - Allows for better wood carry but mostly a quality of life upgrade</li>
@@ -105,8 +110,9 @@ The current list of Non-Cosmetic Mods for HMO (as named by internal files) & why
 <li>VanillaMuzzleflashEnhanced - Needed in Final Weeks (12+)</li></ol>
 </br></br></br>
 
- The current list of Cosmetic Mods for HMO (as named by internal files) are as follows:
+### The current list of Cosmetic Mods for HMO (as named by internal files) are as follows:
  <ol><li>4ColorBicPen</li><li>blkt_invtrack</li><li>Authentic Z - Current</li><li>ATA_Mustang</li><li>ATA_Jeep</li><li>ATA_Luton</li><li>ATA_Petyarbuilt</li><li>VISIBLE_BACKPACK_BACKGROUND</li><li>Brita_2</li><li>BCGRareWeapons</li><li>BCGTools</li><li>modurl=https://steamcommunity.com/sharedfiles/filedetails/?2565273421</li><li>CleanDirt</li><li>CloseVehicleDoor</li><li>damnlib</li><li>FixCraftingContextMenuStutter</li><li>DIY_Vehicle_Parts_Ford_F350UK</li><li>DIY_Vehicle_Parts_ATA_MustardUK</li><li>DIY_Vehicle_Parts_Halo_M12_WarthogUK</li><li>DIY_Vehicle_Parts_Base_Vanilla_CraftingUK</li><li>DylansTiles_Elysium</li><li>DylansTiles</li><li>EasyEngineRebuild</li><li>EasyPacking</li><li>FixTooltipLag</li><li>fuelsideindicator</li><li>GeneratorTimeRemaining</li><li>GlassHats</li><li>NoLighterNeeded</li><li>IMightNeedALighter</li><li>Improved_Blood_Ffects_Optimized</li><li>Improved_Blood_Ffects</li><li>Improved_wearbable_cigarettes</li><li>invisibledenimpatches</li><li>invisibleleatherpatches</li><li>invisiblesheetpatches</li><li>qdx_item_condition</li><li>KillCount</li><li>ModGlassHats</li><li>modoptions</li><li>noirrsling</li><li>RainCleans</li><li>BloodRainWash</li><li>ReduceLagofCraftingMenu</li><li>sleeponit</li><li>SID3404</li><li>TMC_TrueActions</li><li>fhqExpVehSpawn</li><li>fhqExpVehSpawnNoVanilla</li><li>Wearable_Cigarette</li><li>WorkingMasks</li><li>FC4WT</li><li>[ADDON]TMC_TrueActions</li><li>tkTiles_01</li><li>BigZombieMonkeys_tile_pack</li><li>MezzHairColors</li><li>esIC</li><li>FantaStreetTiles_01</li><li>axolotl</li><li>RotatorsLib</li><li>truemusic</li><li>Threads</li><li>ATA_Dadge</li><li>ATA_Mustang_x2</li><li>ATA_Jeep_x2</li><li>QNW_QNWLibrary</li><li>wringclothesnostr</li><li>fshk_ghostmask</li><li>animeshader</li><li>SchoolbagBundleAlice</li><li>DONDAVest</li><li>SpnHair</li><li>FH</li><li>MilPackChestRigWebbingBlack</li><li>Gasmaskwithbalaclava</li><li>AnimeTV</li><li>BlackSatchels</li><li>TombBodyTex</li><li>TombBody</li><li>81deloreanDMC12BTTF</li><li>81deloreanDMC12</li><li>Video_Game_Consoles</li><li>TombBodyTexDOLL</li></ol>
 </br></br></br>
-
-
+ &nbsp;
+ &nbsp;
+</br></br></br>
