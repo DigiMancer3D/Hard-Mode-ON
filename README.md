@@ -48,7 +48,7 @@ In HMO, token counts are 1 of 2 metrics used to determine better players. The to
 
 </br></br></br></br>
 ## MODS Used
-There is a file named, "modmanager-mods.txt", that may help you auto select these mods if you: (A) have these mods installed (check Steam List [[Z0M8I3D's "Hard Mode (ON)"](https://steamcommunity.com/sharedfiles/filedetails/?id=3435689566)]) & (B) are using "Mod Manager". Each mod that can be configured from the sandbox configuration section has been pre-configured and those files are in the folder, "Sandbox Presets" within the folder, "Special Data for HMO (Self-Serve)". You can copy and paste the presets to your project zomboid "Sandbox Presets" folder to have them usable from within your game when creating a new game.
+There is a file named, "modmanager-mods.txt", that may help you auto select these mods if you: (A) have these mods installed (check Steam List [[Z0M8I3D's "Hard Mode (ON)"](https://steamcommunity.com/sharedfiles/filedetails/?id=3435689566)]) & (B) are using "Mod Manager". </br></br></br>Each mod that can be configured from the sandbox configuration section has been pre-configured and those files are in the folder, "Sandbox Presets" within the folder, "Special Data for HMO (Self-Serve)". You can copy and paste the presets to your project zomboid "Sandbox Presets" folder to have them usable from within your game when creating a new game.
 </br></br></br>
 ### The current list of Non-Cosmetic Mods for HMO (as named by internal files) & why that mode was used are as follows:
 <ol><li>15xp - To add a flat rate to Workout Experience (comes in handy Weeks 10+)</li>
