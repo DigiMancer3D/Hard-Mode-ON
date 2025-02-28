@@ -2,7 +2,7 @@
 Finding a way to make a progressively harder Project Zomboid Sandbox game for a "Faux Playstyle" until the team behind PZ sets HMO or "Hard Mode (ON)" as a Playstyle in PZ.
 
 ### Note:
-At this point you could attempt to find the LUA timer event code to then use different code points or use a script to swap files at certian timer points but to be honest, the timer point for the first swap after the inital loading swap for <b><i>week2</i></b> is at approx 21 hours (IRL time) of gameplay. So, the majority of everyone will probably be swapping out the game settings file (<i>map_sand.bin</i>) for which ever week they are about to load into or while they are in-game. 
+At this point you could attempt to find the LUA timer event code to then use different code points or use a script to swap files at certian timer points but to be honest, the timer point for the first swap after the inital loading swap for <b><i>week2</i></b> is at approx 21 hours (IRL time) of gameplay. So, the majority of everyone will probably not be swapping out the game settings file (<i>map_sand.bin</i>) for which ever week they are in but instead have game saves to load into for where they are in-game. I still took the approach as if others may join in to the increasingly difficulty playstyle. 
 
 </br></br>
 ## What is Hard Mode (ON)?
